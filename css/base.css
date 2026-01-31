@@ -17,3 +17,18 @@ h1, h2, h3, h4, h5, h6{
     color: #FFB000
 }
 
+p{
+    color: white;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.comment{
+    color: #BBB;
+}
+
+.center{
+    text-align: center;
+}
