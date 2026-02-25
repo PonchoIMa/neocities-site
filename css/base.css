@@ -1,0 +1,63 @@
+.vt323-regular {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    background-color: black;
+    display: inline-block;
+    width: 800px;
+    margin: 0 auto; 
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* Fonts */
+    font-family: "VT323", monospace;
+    font-size: clamp(1rem, 0.95rem + 0.25vw, 1.25rem);
+    font-weight: 400;
+    font-style: normal;
+}
+
+nav{
+    font-size: clamp(2.5rem, 2.35rem + 1.75vw, 2.70rem);
+}
+
+h1{
+    display: none;
+}
+
+a, a:hover{
+    color: #FFC111
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6, pre{
+    color: #FFB000
+}
+
+p{
+    color: white;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.comment{
+    color: #BBB;
+}
+
+.inline{
+    display: inline;
+}
+
+.center{
+    text-align: center;
+}
