@@ -69,3 +69,14 @@ nav ul {
     body { padding: 10px; }
     pre { font-size: 0.5rem; }
 }
+
+#mastodon-feed::after {
+    content: " _";
+    animation: blink 1s step-end infinite;
+    color: var(--accent);
+}
+
+@keyframes blink {
+    from, to { opacity: 1; }
+    50% { opacity: 0; }
+}
