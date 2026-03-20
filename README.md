@@ -10,7 +10,7 @@ Welcome to my digital garden. This site serves as a mirror and extension of my p
 ## 🛠️ Tech Stack
 * **Font:** Ubuntu Mono (The best font ever).
 * **Tools:** Neocities CLI, LaTeX (for academic papers), and Python/C.
-* **Blog:** (to be) Connected via [Bear.blog](https://bear.blog).
+* **Blog:** (to be) Connected via [Bear blog](https://bearblog.dev).
 
 ## TODO - Next Steps
 * [x] Create bookshelf.html file: Currently in the works.
